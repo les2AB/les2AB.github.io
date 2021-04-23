@@ -6,7 +6,7 @@
 * Avril [*Le mario*](https://les2ab.github.io/Famjam-Avril2021) ([source](https://github.com/les2AB/Famjam-Avril2021))
 
 
-## Projet *FamJam*
+#### Projet *FamJam*
 
 Un *Famjam*, c'est quoi ?
 
@@ -14,7 +14,7 @@ Directement inspiré par la [présentation de Paul Gestwicki](https://www.youtub
 
 
 
-### Planification
+##### Planification
 
 * horaire du famjam : 8h30 (p'tit dej)-19h30
 * choisir un directeur artistique (parmis un enfant) 
@@ -29,7 +29,7 @@ Directement inspiré par la [présentation de Paul Gestwicki](https://www.youtub
     
 
 
-### Outils numériques
+##### Outils numériques
 
 **Moteur de jeu**
 
