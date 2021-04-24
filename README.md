@@ -27,7 +27,7 @@ Directement inspiré par la [présentation de Paul Gestwicki](https://www.youtub
 * session de travail de l'après midi
 * diner et réflexions
     
-
+* Quelques photos en [cliquant ici](https://nuage-aix-marseille.beta.education.fr/s/d3NAxfcEyKkbaL5)
 
 ##### Outils numériques
 
